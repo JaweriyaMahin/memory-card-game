@@ -37,7 +37,7 @@ score++
 document.getElementById("score").innerText = score
 firstCard=null
 secondCard=null
-}
+
 else{
 setTimeout(()=>{
 firstCard.innerText="?"
@@ -47,9 +47,6 @@ secondCard.classList.remove("flipped")
 firstCard=null
 secondCard=null
 },800)
-}
-
-}
 
 })
 
