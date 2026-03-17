@@ -31,8 +31,8 @@ align-items:center;
 justify-content:center;
 cursor:pointer;
 border-radius:10px;
-}
+
 
 .card.flipped{
 background:#4CAF50;
-}
+
